@@ -12,6 +12,7 @@ O projeto apresenta planetas com órbitas, lua da Terra, anéis de Saturno, estr
 - Lua orbitando a Terra.
 - Anéis de Saturno.
 - Seleção de planetas com caixa de seleção piscante.
+- Rotação da câmera com as setas
 - Zoom controlado pelas teclas **Z** (aproximar) e **X** (afastar).
 - Informações do planeta selecionado exibidas na tela.
 
